@@ -10,7 +10,6 @@ Not taking new projects. Open for consultations on AI strategy, architecture and
 
 - **[Vimo Swim](https://mtl.dev/projects/vimo-swim)**: a programmable swim metronome that sits under the swim cap, plus apps for swimmers and coaches. Firmware in Rust on nRF52840, apps in Flutter, a Garmin Connect IQ app in Monkey C. In a testing program with Total Immersion coaches in Poland and Spain.
 - **Vimek**: a Claude agent in Slack for the Vimo Swim team. It reads company data through our own MCP server, and every change it proposes waits for a teammate to click Approve.
-- **[MusicTech Lab](https://github.com/musictechlab)**: the music tech company I founded. Its open source DDEX, C2PA and audio metadata tools live there.
 
 ## My open source
 
